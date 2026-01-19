@@ -59,3 +59,11 @@ Given a string, take the first 2 chars and return the string with the 2 chars ad
 - front22("abc") → "ababcab"
 
 
+## 7.startHi
+
+Given a string, return true if the string starts with "hi" and false otherwise.
+
+- startHi("hi there") → true
+- startHi("hi") → true
+- startHi("hello hi") → false
+
