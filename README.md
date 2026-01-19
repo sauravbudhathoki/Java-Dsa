@@ -47,6 +47,15 @@ Return true if the given non-negative number is a multiple of 3 or a multiple of
 
 - or35(3) → true
 - or35(10) → true
-- mor35(8) → false
+- or35(8) → false
+
+
+## 6.Front22
+
+Given a string, take the first 2 chars and return the string with the 2 chars added at both the front and back, so "kitten" yields"kikittenki". If the string length is less than 2, use whatever chars are there.
+
+- front22("kitten") → "kikittenki"
+- front22("Ha") → "HaHaHa"
+- front22("abc") → "ababcab"
 
 
