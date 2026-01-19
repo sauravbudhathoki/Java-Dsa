@@ -41,3 +41,12 @@ The original string will be length 1 or more.
 - backAround("a") → "aaa"
 
 
+## 5.or35
+
+Return true if the given non-negative number is a multiple of 3 or a multiple of 5. Use the % "mod" operator.
+
+- or35(3) → true
+- or35(10) → true
+- mor35(8) → false
+
+
