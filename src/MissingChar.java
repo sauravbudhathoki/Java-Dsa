@@ -16,3 +16,4 @@ public class MissingChar {
 
     }
 }
+//return str.substring(0,3)+str.substring(n+1,str.length());
