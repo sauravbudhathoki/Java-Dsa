@@ -128,3 +128,12 @@ Given a string, return a string made of the first 2 chars (if present), however 
 - startOz("ozymandias") → "oz"
 - startOz("bzoo") → "z"
 - startOz("oxx") → "o"
+
+
+## 14.intMax
+
+Given three int values, a b c, return the largest.
+
+- intMax(1, 2, 3) → 3
+- intMax(1, 3, 2) → 3
+- intMax(3, 2, 1) → 3
