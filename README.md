@@ -165,3 +165,12 @@ Given 2 positive int values, return the larger value that is in the range 10..20
 - max1020(11, 19) → 19
 - max1020(19, 11) → 19
 - max1020(11, 9) → 11
+
+
+## 18.stringE
+
+Return true if the given string contains between 1 and 3 'e' chars.
+
+- stringE("Hello") → true
+- stringE("Heelle") → true
+- stringE("Heelele") → false
