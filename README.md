@@ -223,6 +223,19 @@ We have two monkeys, a and b, and the parameters aSmile and bSmile indicate if e
 The parameter weekday is true if it is a weekday, and the parameter vacation is true if we are on vacation. We sleep in if it is not a weekday or we're on vacation. Return true if we sleep in.
 
 
-sleepIn(false, false) → true
-sleepIn(true, false) → false
-sleepIn(false, true) → true
+- sleepIn(false, false) → true
+- sleepIn(true, false) → false
+- sleepIn(false, true) → true
+
+
+
+## 24.stringTimes
+
+
+
+Given a string and a non-negative int n, return a larger string that is n copies of the original string.
+
+
+- stringTimes("Hi", 2) → "HiHi"
+- stringTimes("Hi", 3) → "HiHiHi"
+- stringTimes("Hi", 1) → "Hi"
